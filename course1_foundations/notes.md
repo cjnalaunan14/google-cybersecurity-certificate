@@ -30,8 +30,8 @@ Internal threats can be classified into two categories:
 - **Intentional** – Deliberate actions intended to cause harm or gain unauthorized access. 
 
 ### Role of Security Teams
-**Mitigate threats** - bawasan ang impact ng attacks.
-**Ensure compliance** - sundin ang laws & standards (avoid fines, audits).
-**Maintain productivity** - business continuity plan para tuloy ang trabaho kahit may breach.
-**Reduce expenses** - iwas gastos sa data loss, downtime, penalties.
-**Maintain brand trust** - protektahan ang customer data, iwas reputational damage.
+- **Mitigate threats** - bawasan ang impact ng attacks.
+- **Ensure compliance** - sundin ang laws & standards (avoid fines, audits).
+- **Maintain productivity** - business continuity plan para tuloy ang trabaho kahit may breach.
+- **Reduce expenses** - iwas gastos sa data loss, downtime, penalties.
+- **Maintain brand trust** - protektahan ang customer data, iwas reputational damage.
