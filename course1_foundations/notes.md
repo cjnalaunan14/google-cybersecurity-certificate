@@ -28,3 +28,10 @@ A **threat actor** is any individual, group, or entity that poses a risk to an o
 Internal threats can be classified into two categories:
 - **Accidental** – Unintentional actions that cause security issues (clicking a phishing link).
 - **Intentional** – Deliberate actions intended to cause harm or gain unauthorized access. 
+
+### Role of Security Teams
+**Mitigate threats** - bawasan ang impact ng attacks.
+**Ensure compliance** - sundin ang laws & standards (avoid fines, audits).
+**Maintain productivity** - business continuity plan para tuloy ang trabaho kahit may breach.
+**Reduce expenses** - iwas gastos sa data loss, downtime, penalties.
+**Maintain brand trust** - protektahan ang customer data, iwas reputational damage.
